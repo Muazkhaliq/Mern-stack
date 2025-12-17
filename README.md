@@ -23,4 +23,6 @@
 2. Booking Page
 3. AddCar page
 4. ManageBookings
+5. Cars page 
+6. login page
 
